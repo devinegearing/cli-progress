@@ -1,0 +1,21 @@
+{
+  "name": "@devinegearing/cli-progress",
+  "version": "0.1.0",
+  "description": "Animated CLI progress bars with spinners, time estimates, and command output tracking",
+  "type": "module",
+  "exports": "./index.mjs",
+  "files": ["index.mjs"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinegearing/cli-progress.git"
+  },
+  "keywords": ["cli", "progress", "spinner", "progress-bar", "terminal"],
+  "author": "devinegearing",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
