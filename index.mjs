@@ -1,11 +1,11 @@
 /**
- * @devinegearing/cli-progress
+ * @snowviator/cli-progress
  *
  * Animated CLI progress bars with spinners, time-estimated fills,
  * and real-time command output tracking.
  *
  * Usage:
- *   import { createProgress } from '@devinegearing/cli-progress';
+ *   import { createProgress } from '@snowviator/cli-progress';
  *
  *   const p = createProgress();
  *

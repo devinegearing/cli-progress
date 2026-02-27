@@ -1,5 +1,5 @@
 {
-  "name": "@devinegearing/cli-progress",
+  "name": "@snowviator/cli-progress",
   "version": "0.1.0",
   "description": "Animated CLI progress bars with spinners, time estimates, and command output tracking",
   "type": "module",
